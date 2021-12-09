@@ -1,5 +1,7 @@
 "use strict";
 
+require("@moleculer/lab");
+
 /**
  * Moleculer ServiceBroker configuration file
  *
